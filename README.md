@@ -1,2 +1,1 @@
-Catppuccin-Latte theme for actual budget
-![Catppuccin-Latte](./screenshot.png)
+Budget Mint Green theme for actual budget
