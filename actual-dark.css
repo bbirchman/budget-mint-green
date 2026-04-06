@@ -3,9 +3,9 @@
 :root {
   /* Base Palette - Neutral dark grey (like Actual's navy but greyscale) */
   --color-pageBackground: #0f1112;
-  --color-pageBackgroundModalActive: #181a1b;
+  --color-pageBackgroundModalActive: #141617;
   --color-pageBackgroundTopLeft: #080909;
-  --color-pageBackgroundBottomRight: #181a1b;
+  --color-pageBackgroundBottomRight: #141617;
   --color-pageBackgroundLineTop: #42654d;
   --color-pageBackgroundLineMid: #080909;
   --color-pageBackgroundLineBottom: #232729;
@@ -18,11 +18,11 @@
   --color-pageTextLink: #4a8070;
   --color-pageTextLinkLight: #5a9080;
   /* Card Colors */
-  --color-cardBackground: #181a1b;
+  --color-cardBackground: #141617;
   --color-cardBorder: #42654d;
   --color-cardShadow: #080909;
   /* Table Colors */
-  --color-tableBackground: #0f1112;
+  --color-tableBackground: #141617;
   --color-tableRowBackgroundHover: #232729;
   --color-tableText: #e3e5e6;
   --color-tableTextLight: #e3e5e6;
@@ -31,14 +31,14 @@
   --color-tableTextHover: #b8babb;
   --color-tableTextInactive: #6e7173;
   --color-tableHeaderText: #b8babb;
-  --color-tableHeaderBackground: #181a1b;
+  --color-tableHeaderBackground: #141617;
   --color-tableBorder: #232729;
   --color-tableBorderSelected: #42654d;
   --color-tableBorderHover: #638b73;
   --color-tableBorderSeparator: #2d3133;
   --color-tableRowBackgroundHighlight: #232729;
   --color-tableRowBackgroundHighlightText: #e3e5e6;
-  --color-tableRowHeaderBackground: #181a1b;
+  --color-tableRowHeaderBackground: #141617;
   --color-tableRowHeaderText: #e3e5e6;
   /* Sidebar Colors */
   --color-sidebarBackground: #080909;
@@ -52,8 +52,8 @@
   --color-sidebarBudgetName: #b8babb;
   --color-sidebarBorder: #232729;
   /* Menu Colors */
-  --color-menuBackground: #181a1b;
-  --color-menuItemBackground: #181a1b;
+  --color-menuBackground: #141617;
+  --color-menuItemBackground: #141617;
   --color-menuItemBackgroundHover: #232729;
   --color-menuItemText: #e3e5e6;
   --color-menuItemTextHover: #e3e5e6;
@@ -68,7 +68,7 @@
   --color-menuAutoCompleteTextHeader: #4a8070;
   --color-menuAutoCompleteItemText: #e3e5e6;
   /* Modal Colors */
-  --color-modalBackground: #181a1b;
+  --color-modalBackground: #141617;
   --color-modalBorder: #232729;
   /* Mobile Colors */
   --color-mobileHeaderBackground: #080909;
@@ -76,7 +76,7 @@
   --color-mobileHeaderTextSubdued: #b8babb;
   --color-mobileHeaderTextHover: rgba(227, 229, 230, 0.15);
   --color-mobilePageBackground: #0f1112;
-  --color-mobileNavBackground: #181a1b;
+  --color-mobileNavBackground: #141617;
   --color-mobileNavItem: #e3e5e6;
   --color-mobileNavItemSelected: #638b73;
   --color-mobileAccountShadow: #080909;
@@ -131,7 +131,7 @@
   --color-buttonBareDisabledBackground: transparent;
   /* Calendar Colors */
   --color-calendarText: #e3e5e6;
-  --color-calendarBackground: #181a1b;
+  --color-calendarBackground: #141617;
   --color-calendarItemText: #e3e5e6;
   --color-calendarItemBackground: #232729;
   --color-calendarSelectedBackground: #42654d;
@@ -161,7 +161,7 @@
   --color-upcomingBorder: #232729;
   /* Form Colors */
   --color-formLabelText: #b8babb;
-  --color-formLabelBackground: #181a1b;
+  --color-formLabelBackground: #141617;
   --color-formInputBackground: #0f1112;
   --color-formInputBackgroundSelected: #232729;
   --color-formInputBackgroundSelection: #42654d;
@@ -184,12 +184,12 @@
   --color-checkboxToggleBackgroundSelected: #42654d;
   --color-checkboxToggleDisabled: #232729;
   /* Pill Colors */
-  --color-pillBackground: #232729;
+  --color-pillBackground: #141617;
   --color-pillBackgroundLight: #0f1112;
   --color-pillText: #e3e5e6;
   --color-pillTextHighlighted: #638b73;
   --color-pillBorder: #2d3133;
-  --color-pillBorderDark: #2d3133;
+  --color-pillBorderDark: #141617;
   --color-pillBackgroundSelected: #42654d;
   --color-pillTextSelected: #0f1112;
   --color-pillBorderSelected: #42654d;
@@ -207,12 +207,12 @@
   --color-noteTagDefault: #638b73;
   --color-noteTagText: #638b73;
   /* Budget Colors */
-  --color-budgetOtherMonth: #181a1b;
+  --color-budgetOtherMonth: #141617;
   --color-budgetCurrentMonth: #0f1112;
   --color-budgetHeaderOtherMonth: #080909;
-  --color-budgetHeaderCurrentMonth: #181a1b;
+  --color-budgetHeaderCurrentMonth: #141617;
   /* Floating Action Bar */
-  --color-floatingActionBarBackground: #181a1b;
+  --color-floatingActionBarBackground: #141617;
   --color-floatingActionBarBorder: #638b73;
   --color-floatingActionBarText: #e3e5e6;
   /* Tooltip Colors */
